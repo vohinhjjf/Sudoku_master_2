@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">211627554108377</string>
+    <string name="fb_login_protocol_scheme">fb211627554108377</string>
+
+</resources>
