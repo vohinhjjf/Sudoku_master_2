@@ -15,12 +15,9 @@ A simple Sudoku game written in Kotlin, there is only one level Medium.
 - Hint
 - Reset
 - Highlight the row, column and grid 3x3 in where the selected cell is
-
+-Login
 ### Authors
-|No.|Full Name|Student ID|
-|-|-|-|
-|1|Phan Huỳnh Minh Duy|1752|
-|2|Nguyễn Đức Minh Nguyên|17520823|
+
 
 ### Download 
 
